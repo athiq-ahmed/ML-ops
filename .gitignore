@@ -19,5 +19,7 @@ venv
 
 
 MLops/data
-MLops/downloads
-
+downloads/
+models/
+venv/
+*.db
