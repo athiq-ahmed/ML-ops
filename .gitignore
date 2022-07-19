@@ -17,10 +17,8 @@ mlruns/*
 venv
 .idea
 
-
-MLops/data
-MLops/models
-downloads/
-models/
+02-experiment-tracking/mlruns/
+data/
 venv/
+mlruns/
 *.db
