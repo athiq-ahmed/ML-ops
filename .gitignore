@@ -19,6 +19,7 @@ venv
 
 
 MLops/data
+MLops/models
 downloads/
 models/
 venv/
